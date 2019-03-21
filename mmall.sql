@@ -1,17 +1,5 @@
 /*
- Navicat Premium Data Transfer
 
- Source Server         : 182.92.82.103
- Source Server Type    : MySQL
- Source Server Version : 50173
- Source Host           : 182.92.82.103
- Source Database       : mmall
-
- Target Server Type    : MySQL
- Target Server Version : 50173
- File Encoding         : utf-8
-
- Date: 04/13/2017 22:04:18 PM
 */
 
 SET NAMES utf8;
